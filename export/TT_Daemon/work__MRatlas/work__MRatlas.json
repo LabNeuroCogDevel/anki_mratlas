@@ -1,0 +1,1560 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "6a35af4e-b69e-11e8-b2dd-002264a4aa39",
+    "deck_config_uuid": "6a35b50c-b69e-11e8-b2dd-002264a4aa39",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": false,
+            "crowdanki_uuid": "6a35b50c-b69e-11e8-b2dd-002264a4aa39",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "Right_Claustrum.sag.jpg",
+        "Right_Culmen_of_Vermis.axi.jpg",
+        "Right_Fastigium.cor.jpg",
+        "Right_Supramarginal_Gyrus.sag.jpg",
+        "Right_Caudate.cor.jpg",
+        "Right_Orbital_Gyrus.sag.jpg",
+        "Right_Dentate.axi.jpg",
+        "Right_Lentiform_Nucleus.axi.jpg",
+        "Right_Rectal_Gyrus.axi.jpg",
+        "Right_Inferior_Semi-Lunar_Lobule.axi.jpg",
+        "Right_Lateral_Geniculum_Body.cor.jpg",
+        "Right_Superior_Occipital_Gyrus.sag.jpg",
+        "Right_Ventral_Anterior_Nucleus.cor.jpg",
+        "Anterior_Commissure.cor.jpg",
+        "Right_Caudate_Tail.axi.jpg",
+        "Right_Lateral_Dorsal_Nucleus.axi.jpg",
+        "Right_Nucleus_Accumbens.axi.jpg",
+        "Right_Medial_Dorsal_Nucleus.sag.jpg",
+        "Right_Caudate_Head.cor.jpg",
+        "Right_Lateral_Posterior_Nucleus.sag.jpg",
+        "Right_Pyramis.sag.jpg",
+        "Right_Nodule.axi.jpg",
+        "Right_Ventral_Posterior_Medial_Nucleus.axi.jpg",
+        "Right_Superior_Parietal_Lobule.cor.jpg",
+        "Right_Orbital_Gyrus.cor.jpg",
+        "Right_Subcallosal_Gyrus.axi.jpg",
+        "Right_Cingulate_Gyrus.axi.jpg",
+        "Right_Angular_Gyrus.sag.jpg",
+        "Posterior_Commissure.sag.jpg",
+        "Right_Medial_Geniculum_Body.axi.jpg",
+        "Right_Ventral_Posterior_Lateral_Nucleus.axi.jpg",
+        "Right_Pyramis_of_Vermis.axi.jpg",
+        "Right_Pulvinar.sag.jpg",
+        "Right_Pyramis_of_Vermis.cor.jpg",
+        "Right_Inferior_Parietal_Lobule.axi.jpg",
+        "Right_Transverse_Temporal_Gyrus.cor.jpg",
+        "Right_Culmen_of_Vermis.cor.jpg",
+        "Right_Red_Nucleus.sag.jpg",
+        "Right_Precentral_Gyrus.cor.jpg",
+        "Right_Uvula.sag.jpg",
+        "Right_Medial_Globus_Pallidus.axi.jpg",
+        "Right_Anterior_Nucleus.cor.jpg",
+        "Right_Inferior_Semi-Lunar_Lobule.sag.jpg",
+        "Right_Pulvinar.axi.jpg",
+        "Right_Insula.axi.jpg",
+        "Right_Ventral_Anterior_Nucleus.sag.jpg",
+        "Right_Lateral_Geniculum_Body.axi.jpg",
+        "Right_Caudate_Tail.cor.jpg",
+        "Right_Pyramis.axi.jpg",
+        "Right_Medial_Geniculum_Body.sag.jpg",
+        "Right_Mammillary_Body.cor.jpg",
+        "Right_Medial_Geniculum_Body.cor.jpg",
+        "Right_Caudate_Head.sag.jpg",
+        "Right_Declive_of_Vermis.sag.jpg",
+        "Right_Middle_Temporal_Gyrus.sag.jpg",
+        "Right_Superior_Occipital_Gyrus.axi.jpg",
+        "Right_Subcallosal_Gyrus.sag.jpg",
+        "Right_Midline_Nucleus.axi.jpg",
+        "Right_Caudate.axi.jpg",
+        "Right_Superior_Parietal_Lobule.axi.jpg",
+        "Right_Caudate_Body.sag.jpg",
+        "Right_Superior_Temporal_Gyrus.sag.jpg",
+        "Right_Angular_Gyrus.cor.jpg",
+        "Right_Paracentral_Lobule.sag.jpg",
+        "Right_Superior_Frontal_Gyrus.sag.jpg",
+        "Right_Rectal_Gyrus.sag.jpg",
+        "Right_Claustrum.axi.jpg",
+        "Right_Ventral_Posterior_Medial_Nucleus.sag.jpg",
+        "Right_Cerebellar_Lingual.sag.jpg",
+        "Right_Medial_Dorsal_Nucleus.axi.jpg",
+        "Right_Superior_Occipital_Gyrus.cor.jpg",
+        "Right_Inferior_Temporal_Gyrus.cor.jpg",
+        "Right_Cingulate_Gyrus.cor.jpg",
+        "Right_Middle_Temporal_Gyrus.axi.jpg",
+        "Right_Superior_Frontal_Gyrus.axi.jpg",
+        "Right_Dentate.sag.jpg",
+        "Right_Fusiform_Gyrus.cor.jpg",
+        "Right_Lateral_Dorsal_Nucleus.cor.jpg",
+        "Right_Inferior_Frontal_Gyrus.axi.jpg",
+        "Right_Ventral_Lateral_Nucleus.sag.jpg",
+        "Right_Caudate_Tail.sag.jpg",
+        "Right_Middle_Occipital_Gyrus.sag.jpg",
+        "Right_Middle_Occipital_Gyrus.axi.jpg",
+        "Right_Cerebellar_Tonsil.cor.jpg",
+        "Right_Inferior_Temporal_Gyrus.axi.jpg",
+        "Right_Orbital_Gyrus.axi.jpg",
+        "Right_Inferior_Occipital_Gyrus.axi.jpg",
+        "Right_Cerebellar_Lingual.axi.jpg",
+        "Right_Declive_of_Vermis.axi.jpg",
+        "Right_Transverse_Temporal_Gyrus.axi.jpg",
+        "Right_Superior_Frontal_Gyrus.cor.jpg",
+        "Right_Nodule.sag.jpg",
+        "Right_Superior_Temporal_Gyrus.axi.jpg",
+        "Right_Pyramis_of_Vermis.sag.jpg",
+        "Right_Putamen.axi.jpg",
+        "Right_Uncus.axi.jpg",
+        "Right_Precentral_Gyrus.sag.jpg",
+        "Right_Inferior_Parietal_Lobule.sag.jpg",
+        "Right_Middle_Frontal_Gyrus.sag.jpg",
+        "Right_Medial_Globus_Pallidus.sag.jpg",
+        "Right_Fusiform_Gyrus.sag.jpg",
+        "Right_Inferior_Frontal_Gyrus.sag.jpg",
+        "Right_Cerebellar_Tonsil.axi.jpg",
+        "Right_Lingual_Gyrus.sag.jpg",
+        "Right_Pulvinar.cor.jpg",
+        "Right_Uvula_of_Vermis.cor.jpg",
+        "Right_Paracentral_Lobule.cor.jpg",
+        "Right_Parahippocampal_Gyrus.sag.jpg",
+        "Right_Caudate_Body.axi.jpg",
+        "Anterior_Commissure.axi.jpg",
+        "Right_Dentate.cor.jpg",
+        "Right_Putamen.cor.jpg",
+        "Right_Uvula.axi.jpg",
+        "Right_Uncus.sag.jpg",
+        "Right_Inferior_Frontal_Gyrus.cor.jpg",
+        "Right_Posterior_Cingulate.axi.jpg",
+        "Right_Cerebellar_Lingual.cor.jpg",
+        "Right_Amygdala.cor.jpg",
+        "Right_Uncus.cor.jpg",
+        "Posterior_Commissure.cor.jpg",
+        "Right_Fastigium.sag.jpg",
+        "Right_Inferior_Occipital_Gyrus.cor.jpg",
+        "Right_Subthalamic_Nucleus.axi.jpg",
+        "Right_Middle_Occipital_Gyrus.cor.jpg",
+        "Right_Lateral_Posterior_Nucleus.cor.jpg",
+        "Right_Rectal_Gyrus.cor.jpg",
+        "Right_Medial_Frontal_Gyrus.sag.jpg",
+        "Right_Medial_Dorsal_Nucleus.cor.jpg",
+        "Right_Lentiform_Nucleus.sag.jpg",
+        "Right_Red_Nucleus.axi.jpg",
+        "Right_Angular_Gyrus.axi.jpg",
+        "Right_Subthalamic_Nucleus.sag.jpg",
+        "Right_Anterior_Nucleus.sag.jpg",
+        "Right_Lateral_Posterior_Nucleus.axi.jpg",
+        "Right_Culmen.cor.jpg",
+        "Right_Middle_Frontal_Gyrus.cor.jpg",
+        "Right_Posterior_Cingulate.sag.jpg",
+        "Right_Medial_Frontal_Gyrus.axi.jpg",
+        "Posterior_Commissure.axi.jpg",
+        "Right_Culmen.axi.jpg",
+        "Right_Tuber.axi.jpg",
+        "Right_Ventral_Anterior_Nucleus.axi.jpg",
+        "Right_Superior_Parietal_Lobule.sag.jpg",
+        "Right_Paracentral_Lobule.axi.jpg",
+        "Right_Medial_Frontal_Gyrus.cor.jpg",
+        "Right_Nucleus_Accumbens.sag.jpg",
+        "Right_Uvula_of_Vermis.sag.jpg",
+        "Right_Midline_Nucleus.sag.jpg",
+        "Right_Ventral_Lateral_Nucleus.axi.jpg",
+        "Right_Fusiform_Gyrus.axi.jpg",
+        "Right_Tuber_of_Vermis.sag.jpg",
+        "Right_Anterior_Nucleus.axi.jpg",
+        "Right_Insula.sag.jpg",
+        "Right_Parahippocampal_Gyrus.cor.jpg",
+        "Right_Fastigium.axi.jpg",
+        "Right_Precentral_Gyrus.axi.jpg",
+        "Right_Inferior_Semi-Lunar_Lobule.cor.jpg",
+        "Right_Caudate.sag.jpg",
+        "Right_Supramarginal_Gyrus.cor.jpg",
+        "Right_Tuber.cor.jpg",
+        "Right_Lingual_Gyrus.axi.jpg",
+        "Right_Ventral_Posterior_Lateral_Nucleus.cor.jpg",
+        "Right_Lingual_Gyrus.cor.jpg",
+        "Right_Midline_Nucleus.cor.jpg",
+        "Right_Claustrum.cor.jpg",
+        "Right_Red_Nucleus.cor.jpg",
+        "Right_Medial_Globus_Pallidus.cor.jpg",
+        "Right_Mammillary_Body.sag.jpg",
+        "Right_Lateral_Dorsal_Nucleus.sag.jpg",
+        "Right_Lateral_Geniculum_Body.sag.jpg",
+        "Right_Pyramis.cor.jpg",
+        "Right_Uvula_of_Vermis.axi.jpg",
+        "Right_Amygdala.axi.jpg",
+        "Right_Uvula.cor.jpg",
+        "Right_Caudate_Body.cor.jpg",
+        "Right_Middle_Frontal_Gyrus.axi.jpg",
+        "Anterior_Commissure.sag.jpg",
+        "Right_Inferior_Occipital_Gyrus.sag.jpg",
+        "Right_Nodule.cor.jpg",
+        "Right_Superior_Temporal_Gyrus.cor.jpg",
+        "Right_Culmen_of_Vermis.sag.jpg",
+        "Right_Transverse_Temporal_Gyrus.sag.jpg",
+        "Right_Tuber_of_Vermis.cor.jpg",
+        "Right_Ventral_Lateral_Nucleus.cor.jpg",
+        "Right_Tuber.sag.jpg",
+        "Right_Putamen.sag.jpg",
+        "Right_Parahippocampal_Gyrus.axi.jpg",
+        "Right_Caudate_Head.axi.jpg",
+        "Right_Inferior_Temporal_Gyrus.sag.jpg",
+        "Right_Posterior_Cingulate.cor.jpg",
+        "Right_Middle_Temporal_Gyrus.cor.jpg",
+        "Right_Subthalamic_Nucleus.cor.jpg",
+        "Right_Supramarginal_Gyrus.axi.jpg",
+        "Right_Tuber_of_Vermis.axi.jpg",
+        "Right_Cingulate_Gyrus.sag.jpg",
+        "Right_Ventral_Posterior_Lateral_Nucleus.sag.jpg",
+        "Right_Lentiform_Nucleus.cor.jpg",
+        "Right_Ventral_Posterior_Medial_Nucleus.cor.jpg",
+        "Right_Subcallosal_Gyrus.cor.jpg",
+        "Right_Mammillary_Body.axi.jpg",
+        "Right_Declive_of_Vermis.cor.jpg",
+        "Right_Insula.cor.jpg",
+        "Right_Inferior_Parietal_Lobule.cor.jpg",
+        "Right_Amygdala.sag.jpg",
+        "Right_Culmen.sag.jpg",
+        "Right_Nucleus_Accumbens.cor.jpg",
+        "Right_Cerebellar_Tonsil.sag.jpg"
+    ],
+    "name": "work::MRatlas",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\nsmall { font-size: 10px}\n.threeasone>img { display: inline-block; width: 30%; vertical-align:text-top;}\n.desc { font-size: 14px; }",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "roi",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "rai_xyz",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "imgaxi",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "imgsag",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "imgcor",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "wikiurl",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "desc",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "MRatlas",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        2,
+                        3,
+                        4
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{roi}}\n<br><small>{{rai_xyz}}</small>\n<hr>\n<small><a href=\"{{wikiurl}}\">wiki</a>:</small><br>\n<p class=\"desc\">{{desc}}</p>",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "<div class=\"threeasone\">{{imgaxi}}{{imgsag}}{{imgcor}}</div>"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{roi}}\n<br><small>{{rai_xyz}}</small>\n<hr>\n<small><a href=\"{{wikiurl}}\">wiki</a>:</small><br>\n{{desc}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{imgaxi}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Anterior Commissure",
+                "0  -1  -1",
+                "<img src='Anterior_Commissure.axi.jpg'/>",
+                "<img src='Anterior_Commissure.sag.jpg'/>",
+                "<img src='Anterior_Commissure.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Anterior_commissure",
+                "The anterior commissure (also known as the precommissure) is a white matter tract (a bundle of axons) connecting the two temporal lobes of the cerebral hemispheres across the midline, and placed in front of the columns of the fornix. The great majority of fibers connecting the two hemispheres travel through the corpus callosum, which is over 10 times larger than the anterior commissure, and other routes of communication pass through the hippocampal commissure or, indirectly, via subcortical connections.  Nevertheless, the anterior commissure is a significant pathway that can be clearly distinguished in the brains of all mammals.\n\nThe anterior commissure plays a key role in pain sensation, more specifically sharp, acute pain.  It also contains decussating fibers from the olfactory tracts, vital for the sense of smell and chemoreception.  The anterior commissure works with the posterior commissure to link the two cerebral hemispheres of the brain and also interconnects the amygdalae and temporal lobes, contributing to the role of memory, emotion, speech and hearing.  It also is involved in olfaction, instinct, and sexual behavior.\n\nIn a sagittal section, the anterior commissure is oval in shape, having a long vertical axis that measures about 5 mm."
+            ],
+            "flags": 0,
+            "guid": "QfC>=;9B?<",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Posterior Commissure",
+                "0  23  0",
+                "<img src='Posterior_Commissure.axi.jpg'/>",
+                "<img src='Posterior_Commissure.sag.jpg'/>",
+                "<img src='Posterior_Commissure.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Posterior_commissure",
+                "The posterior commissure (also known as the epithalamic commissure) is a rounded band of white fibers crossing the middle line on the dorsal aspect of the upper end of the cerebral aqueduct. It is important in the bilateral pupillary light reflex.\n\nIts fibers acquire their medullary sheaths early, but their connections have not been definitively determined. Most of them have their origin in a nucleus, the nucleus of the posterior commissure (nucleus of Darkschewitsch), which lies in the central gray substance of the upper end of the cerebral aqueduct, in front of the oculomotor nucleus. Some are probably derived from the posterior part of the thalamus and from the superior colliculus, whereas others are believed to be continued downward into the medial longitudinal fasciculus.\n\nThe posterior commissure interconnects the pretectal nuclei, mediating the consensual pupillary light reflex."
+            ],
+            "flags": 0,
+            "guid": "JP2]n*7SBQ",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Amygdala",
+                "-23.6051  4.80732  -14.9259",
+                "<img src='Right_Amygdala.axi.jpg'/>",
+                "<img src='Right_Amygdala.sag.jpg'/>",
+                "<img src='Right_Amygdala.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Amygdala",
+                "The amygdala (; plural: amygdalae; also corpus amygdaloideum; Latin from Greek, ἀμυγδαλή, amygdalē, 'Almond', 'tonsil') is one of two almond-shaped groups of nuclei located deep and medially within the temporal lobes of the brain in complex vertebrates, including humans. Shown in research to perform a primary role in the processing of memory, decision-making and emotional responses (including fear, anxiety, and aggression), the amygdalae are considered part of the limbic system."
+            ],
+            "flags": 0,
+            "guid": "Fw!-qpSHs0",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Angular Gyrus",
+                "-45.7002  63.8609  33.2765",
+                "<img src='Right_Angular_Gyrus.axi.jpg'/>",
+                "<img src='Right_Angular_Gyrus.sag.jpg'/>",
+                "<img src='Right_Angular_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Angular_gyrus",
+                "The angular gyrus is a region of the brain lying mainly in the anterolateral region of parietal lobe, that lies near the superior edge of the temporal lobe, and immediately posterior to the supramarginal gyrus. Its significance is in transferring visual information to Wernicke's area, in order to make meaning out of visually perceived words. It is also involved in a number of processes related to language, number processing and spatial cognition, memory retrieval, attention, and theory of mind.  It is Brodmann area 39 of the human brain."
+            ],
+            "flags": 0,
+            "guid": "r=T2UnA^N?",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Anterior Nucleus",
+                "-7.77273  7.95834  12.5758",
+                "<img src='Right_Anterior_Nucleus.axi.jpg'/>",
+                "<img src='Right_Anterior_Nucleus.sag.jpg'/>",
+                "<img src='Right_Anterior_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Anterior_nuclei_of_thalamus",
+                "The anterior nuclei of thalamus (or anterior nuclear group) are a collection of nuclei at the rostral end of the dorsal thalamus. They comprise the anteromedial, anterodorsal, and anteroventral nuclei."
+            ],
+            "flags": 0,
+            "guid": "CFpDR.y1x$",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Caudate Body",
+                "-12.1449  -6.08066  13.8453",
+                "<img src='Right_Caudate_Body.axi.jpg'/>",
+                "<img src='Right_Caudate_Body.sag.jpg'/>",
+                "<img src='Right_Caudate_Body.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Caudate_body"
+            ],
+            "flags": 0,
+            "guid": "EJ_B)f$$`~",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Caudate Head",
+                "-9.13676  -13.1222  0.469315",
+                "<img src='Right_Caudate_Head.axi.jpg'/>",
+                "<img src='Right_Caudate_Head.sag.jpg'/>",
+                "<img src='Right_Caudate_Head.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Caudate_nucleus",
+                "Redirected from %s to %s\n\nCaudate headCaudate nucleusThe caudate nucleus is one of the structures that make up the dorsal striatum, which is a component of the basal ganglia.  While the caudate nucleus has long been associated with motor processes due to its role in Parkinson's disease, it plays important roles in various other nonmotor functions as well, including procedural learning, associative learning and inhibitory control of action, \n\n among other functions. The caudate is also one of the brain structures which compose the reward system and functions as part of the cortico–basal ganglia–thalamic loop."
+            ],
+            "flags": 0,
+            "guid": "qB*G_+eKg`",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Caudate",
+                "-12.3196  -5.55194  8.35542",
+                "<img src='Right_Caudate.axi.jpg'/>",
+                "<img src='Right_Caudate.sag.jpg'/>",
+                "<img src='Right_Caudate.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Caudate_nucleus",
+                "The caudate nucleus is one of the structures that make up the dorsal striatum, which is a component of the basal ganglia.  While the caudate nucleus has long been associated with motor processes due to its role in Parkinson's disease, it plays important roles in various other nonmotor functions as well, including procedural learning, associative learning and inhibitory control of action, \n\n among other functions. The caudate is also one of the brain structures which compose the reward system and functions as part of the cortico–basal ganglia–thalamic loop."
+            ],
+            "flags": 0,
+            "guid": "j0f`^6$K@a",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Caudate Tail",
+                "-27.0763  29.9065  8.92939",
+                "<img src='Right_Caudate_Tail.axi.jpg'/>",
+                "<img src='Right_Caudate_Tail.sag.jpg'/>",
+                "<img src='Right_Caudate_Tail.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Caudate_tail"
+            ],
+            "flags": 0,
+            "guid": "Q*A<IsxD-(",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cerebellar Lingual",
+                "-4.48318  44.7363  -12.6584",
+                "<img src='Right_Cerebellar_Lingual.axi.jpg'/>",
+                "<img src='Right_Cerebellar_Lingual.sag.jpg'/>",
+                "<img src='Right_Cerebellar_Lingual.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Cerebellar_lingual"
+            ],
+            "flags": 0,
+            "guid": "eK(o/FwI,W",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cerebellar Tonsil",
+                "-28.615  50.8414  -36.1145",
+                "<img src='Right_Cerebellar_Tonsil.axi.jpg'/>",
+                "<img src='Right_Cerebellar_Tonsil.sag.jpg'/>",
+                "<img src='Right_Cerebellar_Tonsil.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Cerebellar_tonsil",
+                "The cerebellar tonsil is analogous to a rounded lobule on the undersurface of each cerebellar hemisphere, continuous medially with the uvula of the cerebellar vermis and superiorly by the flocculonodular lobe. Synonyms include: tonsilla cerebelli, amygdala cerebelli, the latter of which is not to be confused with the cerebral tonsils or amygdala nuclei located deep within the medial temporal lobes of the cerebral cortex. The flocculonodular lobe of the cerebellum which can also be confused for the cerebellar tonsils, is one of three lobes that make up the overall composition of the cerebellum. The cerebellum consists of three anatomical and functional lobes: anterior lobe, posterior lobe, and flocculonodular lobe.\n\nElongation of the cerebellar tonsils can, due to pressure, lead to this portion of the cerebellum to slip or be pushed through the foramen magnum of the skull resulting in tonsillar herniation. This is a life-threatening condition as it causes increased pressure on the medulla oblongata which contains respiratory and cardiac control centres."
+            ],
+            "flags": 0,
+            "guid": "OV5u4H|rZk",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cingulate Gyrus",
+                "-10.194  10.6627  34.2704",
+                "<img src='Right_Cingulate_Gyrus.axi.jpg'/>",
+                "<img src='Right_Cingulate_Gyrus.sag.jpg'/>",
+                "<img src='Right_Cingulate_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Cingulate_cortex",
+                "Redirected from %s to %s\n\nCingulate gyrusCingulate cortexThe cingulate cortex is a part of the brain situated in the medial aspect of the cerebral cortex. The cingulate cortex includes the entire cingulate gyrus, which lies immediately above the corpus callosum, and the continuation of this in the cingulate sulcus. The cingulate cortex is usually considered part of the limbic lobe.\n\nIt receives inputs from the thalamus and the neocortex, and projects to the entorhinal cortex via the cingulum. It is an integral part of the limbic system, which is involved with emotion formation and processing, learning, and memory. The combination of these three functions makes the cingulate gyrus highly influential in linking behavioral outcomes to motivation (e.g. a certain action induced a positive emotional response, which results in learning). This role makes the cingulate cortex highly important in disorders such as depression and schizophrenia. It also plays a role in executive function and respiratory control."
+            ],
+            "flags": 0,
+            "guid": "Nl_^)xhK!C",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Claustrum",
+                "-32.3234  1.31113  5.15265",
+                "<img src='Right_Claustrum.axi.jpg'/>",
+                "<img src='Right_Claustrum.sag.jpg'/>",
+                "<img src='Right_Claustrum.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Claustrum",
+                "The claustrum is a thin, irregular sheet of neurons that is attached to the underside of the neocortex in the center of the brain. It is suspected to be present in the brains of all mammals.\n\nThe claustrum in the human brain is a fraction of a millimetre to a few millimetres thick and is a vertical curved sheet of subcortical gray matter oriented sagittally between the white matter tracts of the external capsule and extreme capsule. The claustrum is lateral to the putamen and medial to the insular cortex and is considered by some sources to be part of the basal ganglia.  There are lateral and medial tracts connecting the claustrum to many parts of the cortex and perhaps to the hippocampus, the amygdala, and the caudate nucleus (connections with subcortical centers are a matter of debate).\n\nThe claustrum has a uniformity in its types of cells, indicating a uniform type of processing by all claustral neurons. Though organized into modality specific regions, the claustrum contains a great deal of longitudinal connections between its neurons that could serve to synchronize the entire anterior-posterior extent of the claustrum. Francis Crick and Christof Koch have compared the claustrum to the conductor of an orchestra, referring to its regulatory role in consciousness and cognition. The different parts of the cortex must play in harmony or else the result is a cacophony of sounds. The claustrum may be involved in widespread coordination of the cerebral cortex, using synchronization to achieve a seamless timescale between both the two cortical hemispheres and between cortical regions within the same hemisphere, resulting in the seamless quality of conscious experience."
+            ],
+            "flags": 0,
+            "guid": "gqm[F_X%dp",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Culmen of Vermis",
+                "-2.72427  62.5588  -2.46691",
+                "<img src='Right_Culmen_of_Vermis.axi.jpg'/>",
+                "<img src='Right_Culmen_of_Vermis.sag.jpg'/>",
+                "<img src='Right_Culmen_of_Vermis.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Culmen_of_vermis"
+            ],
+            "flags": 0,
+            "guid": "Dy!;S`!>3=",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Culmen",
+                "-20.333  46.5803  -16.0988",
+                "<img src='Right_Culmen.axi.jpg'/>",
+                "<img src='Right_Culmen.sag.jpg'/>",
+                "<img src='Right_Culmen.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Culmen",
+                "A culmen is a top, a summit or a culminating point. It may also refer to:\n\n\n\nCulmen (bird), the upper ridge of a bird's beak\n\nCulmen (cerebellum), a structure in the brain"
+            ],
+            "flags": 0,
+            "guid": "F@Pmx)2b1k",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Declive of Vermis",
+                "-1.83642  71.8025  -16.4383",
+                "<img src='Right_Declive_of_Vermis.axi.jpg'/>",
+                "<img src='Right_Declive_of_Vermis.sag.jpg'/>",
+                "<img src='Right_Declive_of_Vermis.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Declive_of_vermis"
+            ],
+            "flags": 0,
+            "guid": "lv~.^)3ZC?",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dentate",
+                "-15.0485  54.582  -22.9426",
+                "<img src='Right_Dentate.axi.jpg'/>",
+                "<img src='Right_Dentate.sag.jpg'/>",
+                "<img src='Right_Dentate.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Dentate",
+                "Dentate may refer to:\n\n\n\nA species having dentition\n\nAn energy-dissipating baffle block in a spillway\n\nAn individual not being edentulous\n\nDentate gyrus of the hippocampus\n\nDentate nucleus of the cerebellum\n\nDenticity in chemistry\n\nDentate leaf, a kind of leaf margin"
+            ],
+            "flags": 0,
+            "guid": "e-T3T;HZ6F",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fastigium",
+                "-7.66666  53.8667  -20.5",
+                "<img src='Right_Fastigium.axi.jpg'/>",
+                "<img src='Right_Fastigium.sag.jpg'/>",
+                "<img src='Right_Fastigium.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Fourth_ventricle",
+                "Redirected from %s to %s\n\nFastigiumFourth ventricleThe fourth ventricle is one of the four connected fluid-filled cavities within the human brain. These cavities, known collectively as the ventricular system, consist of the left and right lateral ventricles, the third ventricle, and the fourth ventricle. The fourth ventricle extends from the cerebral aqueduct (aqueduct of Sylvius) to the obex, and is filled with cerebrospinal fluid (CSF).\n\nThe fourth ventricle has a characteristic diamond shape in cross-sections of the human brain. It is located within the pons or in the upper part of the medulla. CSF entering the fourth ventricle through the cerebral aqueduct can exit to the subarachnoid space of the spinal cord through two lateral apertures and a single, midline median aperture."
+            ],
+            "flags": 0,
+            "guid": "edJoyY:_O+",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fusiform Gyrus",
+                "-40.5398  47.7907  -15.7199",
+                "<img src='Right_Fusiform_Gyrus.axi.jpg'/>",
+                "<img src='Right_Fusiform_Gyrus.sag.jpg'/>",
+                "<img src='Right_Fusiform_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Fusiform_gyrus",
+                "The fusiform gyrus, also known as the (discontinuous) occipitotemporal gyrus, is part of the temporal lobe and occipital lobe in Brodmann area 37. The fusiform gyrus is located between the lingual gyrus and parahippocampal gyrus above, and the inferior temporal gyrus below. Though the functionality of the fusiform gyrus is not fully understood, it has been linked with various neural pathways related to recognition. Additionally, it has been linked to various neurological phenomena such as synesthesia, dyslexia, and prosopagnosia."
+            ],
+            "flags": 0,
+            "guid": "EG3=;l`oBq",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Inferior Frontal Gyrus",
+                "-45.1063  -23.6223  2.43547",
+                "<img src='Right_Inferior_Frontal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Inferior_Frontal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Inferior_Frontal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Inferior_frontal_gyrus",
+                "The inferior frontal gyrus is a part of the frontal gyrus of the frontal lobe (the yellow area of the human brain image to the right). It is labelled gyrus frontalis inferior, its Latin name. In the yellow area, its superior border is the inferior frontal sulcus (which divides it from the gyrus frontalis medius in the yellow area), its inferior border the lateral fissure (which divides it from the gyrus temporalis superior in the green area), and its posterior border is the inferior precentral sulcus (in the yellow area). Above it is the middle frontal gyrus (the gyrus frontalis medius), behind it the precentral gyrus (the gyrus praecentralis), both gyri in the yellow area of the image.The inferior frontal gyrus, like the medial frontal gyrus, middle frontal gyrus and the superior frontal gyrus, is more of a region of the frontal gyrus than a true gyrus."
+            ],
+            "flags": 0,
+            "guid": "znF+k(iSth",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Inferior Occipital Gyrus",
+                "-35.9568  85.8781  -6.77982",
+                "<img src='Right_Inferior_Occipital_Gyrus.axi.jpg'/>",
+                "<img src='Right_Inferior_Occipital_Gyrus.sag.jpg'/>",
+                "<img src='Right_Inferior_Occipital_Gyrus.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Inferior_occipital_gyrus"
+            ],
+            "flags": 0,
+            "guid": "M?-X}$U-.#",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Inferior Parietal Lobule",
+                "-48.542  40.7109  38.6743",
+                "<img src='Right_Inferior_Parietal_Lobule.axi.jpg'/>",
+                "<img src='Right_Inferior_Parietal_Lobule.sag.jpg'/>",
+                "<img src='Right_Inferior_Parietal_Lobule.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Inferior_parietal_lobule",
+                "The inferior parietal lobule (subparietal district) lies below the horizontal portion of the intraparietal sulcus, and behind the lower part of the postcentral sulcus. Also known as Geschwind’s territory after Norman Geschwind, an American neurologist, who in the early 1960s foresaw its importance."
+            ],
+            "flags": 0,
+            "guid": "c/+A:RVf(l",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Inferior Semi-Lunar Lobule",
+                "-30.1351  70.8579  -38.2477",
+                "<img src='Right_Inferior_Semi-Lunar_Lobule.axi.jpg'/>",
+                "<img src='Right_Inferior_Semi-Lunar_Lobule.sag.jpg'/>",
+                "<img src='Right_Inferior_Semi-Lunar_Lobule.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Inferior_semi-lunar_lobule"
+            ],
+            "flags": 0,
+            "guid": "lA>bJH:F.&",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Inferior Temporal Gyrus",
+                "-52.84  29.608  -18.5032",
+                "<img src='Right_Inferior_Temporal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Inferior_Temporal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Inferior_Temporal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Inferior_temporal_gyrus",
+                "The inferior temporal gyrus is placed below the middle temporal gyrus, and is connected behind with the inferior occipital gyrus; it also extends around the infero-lateral border on to the inferior surface of the temporal lobe, where it is limited by the inferior sulcus. This region is one of the higher levels of the ventral stream of visual processing, associated with the representation of complex object features, such as global shape.  It may also be involved in face perception, and in the recognition of numbers.The inferior temporal gyrus is the anterior region of the temporal lobe located underneath the central temporal sulcus. The primary function of the occipital temporal gyrus – otherwise referenced as IT cortex – is associated with visual stimuli processing, namely visual object recognition, and has been suggested by recent experimental results as the final location of the ventral cortical visual system. The IT cortex in humans is also known as the Inferior Temporal Gyrus since it has been located to a specific region of the human temporal lobe. The IT processes visual stimuli of objects in our field of vision, and is involved with memory and memory recall to identify that object; it is involved with the processing and perception created by visual stimuli amplified in the V1, V2, V3, and V4 regions of the occipital lobe. This region processes the color and form of the object in the visual field and is responsible for producing the “what” from this visual stimuli, or in other words identifying the object based on the color and form of the object and comparing that processed information to stored memories of objects to identify that object.The IT cortex’s neurological significance is not just its contribution to the processing of visual stimuli in object recognition but also has been found to be a vital area with regards to simple processing of the visual field, difficulties with perceptual tasks and spatial awareness, and the location of unique single cells that possibly explain the IT cortex’s relation to memory."
+            ],
+            "flags": 0,
+            "guid": "OF?e?SeSB@",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Insula",
+                "-39.6548  6.77505  9.33513",
+                "<img src='Right_Insula.axi.jpg'/>",
+                "<img src='Right_Insula.sag.jpg'/>",
+                "<img src='Right_Insula.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Insula",
+                "Insula is the Latin word for \\island\\\" and may refer to:"
+            ],
+            "flags": 0,
+            "guid": "i@b>x&E#Mw",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lateral Dorsal Nucleus",
+                "-11.5  19.5  16",
+                "<img src='Right_Lateral_Dorsal_Nucleus.axi.jpg'/>",
+                "<img src='Right_Lateral_Dorsal_Nucleus.sag.jpg'/>",
+                "<img src='Right_Lateral_Dorsal_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Lateral_dorsal_nucleus_of_thalamus",
+                "Redirected from %s to %s\n\nLateral dorsal nucleusLateral dorsal nucleus of thalamusThe lateral dorsal nucleus is a nucleus of the thalamus.\n\nIt acts in concert with the anterior nuclei of thalamus.\n\nIt receives significant input from several subdivisions of visual cortex, and has a primary output to parietal cortex on the dorsolateral cortical convexity, giving it access to limbic forebrain nuclei important for emotion and behavior functions."
+            ],
+            "flags": 0,
+            "guid": "v.K<UPsybK",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lateral Geniculum Body",
+                "-22.5  24.2857  -1",
+                "<img src='Right_Lateral_Geniculum_Body.axi.jpg'/>",
+                "<img src='Right_Lateral_Geniculum_Body.sag.jpg'/>",
+                "<img src='Right_Lateral_Geniculum_Body.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Lateral_geniculum_body"
+            ],
+            "flags": 0,
+            "guid": "N,RSnXz*Vj",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lateral Posterior Nucleus",
+                "-17.0746  19.9932  13.8102",
+                "<img src='Right_Lateral_Posterior_Nucleus.axi.jpg'/>",
+                "<img src='Right_Lateral_Posterior_Nucleus.sag.jpg'/>",
+                "<img src='Right_Lateral_Posterior_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Lateral_posterior_nucleus_of_thalamus",
+                "Redirected from %s to %s\n\nLateral posterior nucleusLateral posterior nucleus of thalamusThe lateral posterior nucleus is a nucleus of the thalamus.\n\nIt acts in concert with the pulvinar."
+            ],
+            "flags": 0,
+            "guid": "f8qF/]6g8{",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lentiform Nucleus",
+                "-22.5081  1.2208  1.52521",
+                "<img src='Right_Lentiform_Nucleus.axi.jpg'/>",
+                "<img src='Right_Lentiform_Nucleus.sag.jpg'/>",
+                "<img src='Right_Lentiform_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Lentiform_nucleus",
+                "The lentiform nucleus or lenticular nucleus comprises the putamen and the globus pallidus within the basal ganglia. With the caudate nucleus it forms the striatum. It is a large, lens-shaped mass of gray matter just lateral to the internal capsule."
+            ],
+            "flags": 0,
+            "guid": "d0?;En*{QY",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lingual Gyrus",
+                "-14.6843  77.711  -2.78712",
+                "<img src='Right_Lingual_Gyrus.axi.jpg'/>",
+                "<img src='Right_Lingual_Gyrus.sag.jpg'/>",
+                "<img src='Right_Lingual_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Lingual_gyrus",
+                "The lingual gyrus is a brain structure that is linked to processing vision, especially related to letters. It is thought to also play a role in analysis of logical conditions (i.e. logical order of events) and encoding visual memories. The lingual gyrus is named after the shape it most closely resembles—the tongue. It is believed that a hypermetabolism of the lingual gyrus is associated with visual snow. Contrary to the name, the region has little to do with speech."
+            ],
+            "flags": 0,
+            "guid": "mgGYXy/L^F",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mammillary Body",
+                "-9.17905  17.2973  -0.385132",
+                "<img src='Right_Mammillary_Body.axi.jpg'/>",
+                "<img src='Right_Mammillary_Body.sag.jpg'/>",
+                "<img src='Right_Mammillary_Body.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Mammillary_body",
+                "The mammillary bodies are a pair of small round bodies, located on the undersurface of the brain that, as part of the diencephalon, form part of the limbic system.  They are located at the ends of the anterior arches of the fornix.  They consist of two groups of nuclei, the medial mammillary nuclei and the lateral mammillary nuclei.Neuroanatomists have often categorized the mammillary bodies as part of the hypothalamus."
+            ],
+            "flags": 0,
+            "guid": "n$iu$MZUux",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Medial Dorsal Nucleus",
+                "-6.31024  16.039  8.48586",
+                "<img src='Right_Medial_Dorsal_Nucleus.axi.jpg'/>",
+                "<img src='Right_Medial_Dorsal_Nucleus.sag.jpg'/>",
+                "<img src='Right_Medial_Dorsal_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Medial_dorsal_nucleus",
+                "The medial dorsal nucleus (or dorsomedial nucleus of thalamus) is a large nucleus in the thalamus.\n\nIt is believed to play a role in memory."
+            ],
+            "flags": 0,
+            "guid": "5P0SO%YSy",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Medial Frontal Gyrus",
+                "-9.28473  -28.0363  24.2533",
+                "<img src='Right_Medial_Frontal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Medial_Frontal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Medial_Frontal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Medial_frontal_gyrus",
+                "The superior frontal gyrus is situated above the superior frontal sulcus and is continued on to the medial surface of the hemisphere, the medial frontal gyrus. The medial and superior frontal gyri are both regions of the frontal gyrus. The portion on the lateral surface of the hemisphere is usually more or less completely subdivided into an upper and a lower part by an antero-posterior sulcus, the paramedial sulcus, which, however, is frequently interrupted by bridging gyri.\n\nThere is some evidence that it plays a role in executive mechanisms."
+            ],
+            "flags": 0,
+            "guid": "jD?=VRRA8e",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Medial Geniculum Body",
+                "-17.2078  24.3506  -1.38961",
+                "<img src='Right_Medial_Geniculum_Body.axi.jpg'/>",
+                "<img src='Right_Medial_Geniculum_Body.sag.jpg'/>",
+                "<img src='Right_Medial_Geniculum_Body.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Medial_geniculum_body"
+            ],
+            "flags": 0,
+            "guid": "i%1gUP|mhV",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Medial Globus Pallidus",
+                "-14.9753  4.1045  -1.84035",
+                "<img src='Right_Medial_Globus_Pallidus.axi.jpg'/>",
+                "<img src='Right_Medial_Globus_Pallidus.sag.jpg'/>",
+                "<img src='Right_Medial_Globus_Pallidus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Internal_globus_pallidus",
+                "Redirected from %s to %s\n\nMedial globus pallidusInternal globus pallidusThe internal globus pallidus (GPi) (or medial globus pallidus) and the external globus pallidus (GPe) make up the globus pallidus. The GPi is one of the output nuclei of the basal ganglia (the other being the substantia nigra pars reticulata). The GABAergic neurons send their axons to the ventral anterior nucleus (VA) and the ventral lateral nucleus (VL) in the dorsal thalamus, to the centromedian complex, and to the pedunculopontine complex.The efferent bundle is constituted first of the ansa and lenticular fasciculus, then crosses the internal capsule as the Edinger's comb system then arrives at the laterosuperior corner of the subthalamic nucleus and constitutes the field H2 of Forel, then H, and suddenly changes its direction to form field H1 that goes to the inferior part of the thalamus. The distribution of axonal islands is widespread in the lateral region of the thalamus. The innervation of the central region is done by collaterals.The internal globus pallidus contains GABAergic neurons, which allow for its inhibitory function. As the GPi, along with the substantia nigra pars reticulata, forms the output of the basal ganglia, these neurons extend to the thalamus, the centromedian complex and the pedunculopontine complex."
+            ],
+            "flags": 0,
+            "guid": "Ph*7:(9=)*",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Middle Frontal Gyrus",
+                "-38.1061  -28.7794  25.977",
+                "<img src='Right_Middle_Frontal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Middle_Frontal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Middle_Frontal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Middle_frontal_gyrus",
+                "The middle frontal gyrus makes up about one-third of the frontal lobe of the human brain.  (A gyrus is one of the prominent \\bumps\\\" or \\\"ridges\\\" on the surface of the human brain.)"
+            ],
+            "flags": 0,
+            "guid": "p(RVH,#*Y/",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Middle Occipital Gyrus",
+                "-37.0769  80.7551  6.70869",
+                "<img src='Right_Middle_Occipital_Gyrus.axi.jpg'/>",
+                "<img src='Right_Middle_Occipital_Gyrus.sag.jpg'/>",
+                "<img src='Right_Middle_Occipital_Gyrus.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Middle_occipital_gyrus"
+            ],
+            "flags": 0,
+            "guid": "j]V3m$*IXm",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Middle Temporal Gyrus",
+                "-53.0482  38.7944  0.104797",
+                "<img src='Right_Middle_Temporal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Middle_Temporal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Middle_Temporal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Middle_temporal_gyrus",
+                "Middle temporal gyrus is a gyrus in the brain on the Temporal lobe. It is located between the superior temporal gyrus and inferior temporal gyrus.\n\nThe middle temporal gyrus is bounded by:\n\n\n\nthe superior temporal sulcus above;\n\nthe inferior temporal sulcus below;\n\nan imaginary line drawn from the preoccipital notch to the lateral sulcus posteriorly.Its exact function is unknown, but it has been connected with processes as different as contemplating distance, recognition of known faces, and accessing word meaning while reading.\n\nSome studies indicate that lesions of the posterior region of the middle temporal gyrus, in the left cerebral hemisphere, may result in alexia and agraphia for kanji characters (characters of Chinese origin used in Japanese writing)."
+            ],
+            "flags": 0,
+            "guid": "A7{i**3a])",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Midline Nucleus",
+                "-7.90909  17.6364  16",
+                "<img src='Right_Midline_Nucleus.axi.jpg'/>",
+                "<img src='Right_Midline_Nucleus.sag.jpg'/>",
+                "<img src='Right_Midline_Nucleus.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Midline_nucleus"
+            ],
+            "flags": 0,
+            "guid": "uaFd2(6Grn",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nodule",
+                "-6.59831  55.0751  -27.1139",
+                "<img src='Right_Nodule.axi.jpg'/>",
+                "<img src='Right_Nodule.sag.jpg'/>",
+                "<img src='Right_Nodule.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Nodule",
+                "Nodule may refer to:\n\n\n\nNodule (geology), a small rock or mineral cluster\n\nNodule (medicine), a small aggregation of cells\n\nRoot nodule, a growth on the roots of legumes\n\nA feature of mollusc sculpture"
+            ],
+            "flags": 0,
+            "guid": "D&7[%?m14a",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nucleus Accumbens",
+                "-12.4522  -9.43312  -8",
+                "<img src='Right_Nucleus_Accumbens.axi.jpg'/>",
+                "<img src='Right_Nucleus_Accumbens.sag.jpg'/>",
+                "<img src='Right_Nucleus_Accumbens.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Nucleus_accumbens",
+                "The nucleus accumbens (NAc or NAcc), also known as the accumbens nucleus, or formerly as the nucleus accumbens septi (Latin for nucleus adjacent to the septum) is a region in the basal forebrain rostral to the preoptic area of the hypothalamus. The nucleus accumbens and the olfactory tubercle collectively form the ventral striatum.  The ventral striatum and dorsal striatum collectively form the striatum, which is the main component of the basal ganglia. The dopaminergic neurons of the mesolimbic pathway project onto the GABAergic medium spiny neurons of the nucleus accumbens and olfactory tubercle. Each cerebral hemisphere has its own nucleus accumbens, which can be divided into two structures: the nucleus accumbens core and the nucleus accumbens shell.  These substructures have different morphology and functions.\n\nDifferent NAcc subregions (core vs shell) and neuron subpopulations within each region (D1-type vs. D2-type medium spiny neurons) are responsible for different cognitive functions. As a whole, the nucleus accumbens has a significant role in the cognitive processing of motivation, aversion, reward (i.e., incentive salience, pleasure, and positive reinforcement), and reinforcement learning (e.g., Pavlovian-instrumental transfer); hence, it has a significant role in addiction. In addition, part of the nucleus accumbens core is centrally involved in the induction of slow-wave sleep. The nucleus accumbens plays a lesser role in processing fear (a form of aversion), impulsivity, and the placebo effect. It is involved in the encoding of new motor programs as well."
+            ],
+            "flags": 0,
+            "guid": "QxdZYuGp6d",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Orbital Gyrus",
+                "-11.3245  -38.8113  -25.2055",
+                "<img src='Right_Orbital_Gyrus.axi.jpg'/>",
+                "<img src='Right_Orbital_Gyrus.sag.jpg'/>",
+                "<img src='Right_Orbital_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Orbital_gyri",
+                "Redirected from %s to %s\n\nOrbital gyrusOrbital gyriThe inferior or orbital surface of the frontal lobe is concave, and rests on the orbital plate of the frontal bone. It is divided into four orbital gyri by a well-marked H-shaped orbital sulcus. These are named, from their position, the medial, anterior, lateral, and posterior orbital gyri. The medial orbital gyrus presents a well-marked antero-posterior sulcus, the olfactory sulcus, for the olfactory tract; the portion medial to this is named the straight gyrus, and is continuous with the superior frontal gyrus on the medial surface."
+            ],
+            "flags": 0,
+            "guid": "KBvK<3?n|#",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Paracentral Lobule",
+                "-7.61111  31.5213  53.0833",
+                "<img src='Right_Paracentral_Lobule.axi.jpg'/>",
+                "<img src='Right_Paracentral_Lobule.sag.jpg'/>",
+                "<img src='Right_Paracentral_Lobule.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Paracentral_lobule",
+                "Paracentral lobule is on the medial surface of the hemisphere and is the continuation of the precentral and postcentral gyri. The paracentral lobule controls motor and sensory innervations of the contralateral lower extremity. It is also responsible for control of defecation and urination.\n\nIt includes portions of the frontal and parietal lobes:\n\nThe anterior portion of the paracentral lobule is part of the frontal lobe and is often referred to as the supplementary motor area.\n\nThe posterior portion is considered part of the parietal lobe and deals with somatosensory of the distal limbs.While the boundary between the lobes, the central sulcus, is easy to locate on the lateral surface of the cerebral hemispheres, this boundary is often discerned in a cytoarchetectonic manner in cases where the central sulcus is not visible on the medial surface."
+            ],
+            "flags": 0,
+            "guid": "vrx<YA274y",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Parahippocampal Gyrus",
+                "-25.7243  24.9313  -12.0016",
+                "<img src='Right_Parahippocampal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Parahippocampal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Parahippocampal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Parahippocampal_gyrus",
+                "The parahippocampal gyrus (Syn. hippocampal gyrus) is a grey matter cortical region of the brain that surrounds the hippocampus and is part of the limbic system. This region plays an important role in memory encoding and retrieval. It has been involved in some cases of hippocampal sclerosis. Asymmetry has been observed in schizophrenia."
+            ],
+            "flags": 0,
+            "guid": "F2Ahy_Og2%",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Posterior Cingulate",
+                "-10.3549  53.8864  14.5101",
+                "<img src='Right_Posterior_Cingulate.axi.jpg'/>",
+                "<img src='Right_Posterior_Cingulate.sag.jpg'/>",
+                "<img src='Right_Posterior_Cingulate.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Posterior_cingulate_cortex",
+                "Redirected from %s to %s\n\nPosterior cingulatePosterior cingulate cortexThe posterior cingulate cortex (PCC) is the caudal part of the cingulate cortex, located posterior to the anterior cingulate cortex. \n\nThis is the upper part of the \\limbic lobe\\\".  The cingulate cortex is made up of an area around the midline of the brain. Surrounding areas include the retrosplenial cortex and the precuneus."
+            ],
+            "flags": 0,
+            "guid": "glI&7F$C-%",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Precentral Gyrus",
+                "-44.8286  7.75031  38.2472",
+                "<img src='Right_Precentral_Gyrus.axi.jpg'/>",
+                "<img src='Right_Precentral_Gyrus.sag.jpg'/>",
+                "<img src='Right_Precentral_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Precentral_gyrus",
+                "The precentral gyrus (also known as the motor strip) is a prominent structure on the surface of the posterior frontal lobe. It is the site of the primary motor cortex (Brodmann area 4)."
+            ],
+            "flags": 0,
+            "guid": "A(%8pUy0X;",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pulvinar",
+                "-15.7947  27.4438  8.29404",
+                "<img src='Right_Pulvinar.axi.jpg'/>",
+                "<img src='Right_Pulvinar.sag.jpg'/>",
+                "<img src='Right_Pulvinar.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Pulvinar",
+                "Pulvinar () can mean:\n\n\n\nThe pulvinar thalami, comprising the pulvinar nuclei within the thalamus (part of the brain)\n\nA layer of extrasynovial fibrofatty tissue contained within the acetabular fossa of the hip\n\nThe pulvinar tunicae internae segmenti arterialis anastomosis arteriovenae glomeriformis, part of a glomus body\n\nAn ancient Roman instance of an empty throne (hetoimasia), a cushioned couch for occupation by a deity in various  religions"
+            ],
+            "flags": 0,
+            "guid": "EoD4V8w1i>",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Putamen",
+                "-23.9888  -0.218636  2.82",
+                "<img src='Right_Putamen.axi.jpg'/>",
+                "<img src='Right_Putamen.sag.jpg'/>",
+                "<img src='Right_Putamen.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Putamen",
+                "The putamen ( meaning: nutshell) is a round structure located at the base of the forebrain (telencephalon). The putamen and caudate nucleus together form the dorsal striatum. It is also one of the structures that composes the basal ganglia. Through various pathways, the putamen is connected to the substantia nigra, the globus pallidus, the claustrum, and the thalamus, in addition to many regions of the cerebral cortex. A primary function of the putamen is to regulate movements at various stages (e.g. preparation and execution) and influence various types of learning. It employs GABA, acetylcholine, and enkephalin to perform its functions. The putamen also plays a role in degenerative neurological disorders, such as Parkinson's disease."
+            ],
+            "flags": 0,
+            "guid": "kO`8vtS74:",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pyramis of Vermis",
+                "-2.11905  73.2698  -28.4603",
+                "<img src='Right_Pyramis_of_Vermis.axi.jpg'/>",
+                "<img src='Right_Pyramis_of_Vermis.sag.jpg'/>",
+                "<img src='Right_Pyramis_of_Vermis.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Pyramis_of_vermis"
+            ],
+            "flags": 0,
+            "guid": "jCeR><I-Ao",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pyramis",
+                "-26.8033  74.1006  -30.1038",
+                "<img src='Right_Pyramis.axi.jpg'/>",
+                "<img src='Right_Pyramis.sag.jpg'/>",
+                "<img src='Right_Pyramis.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Pyramis",
+                "Pyramis Group  is a Greek multinational kitchen products corporation, headquartered in Thessaloniki, a major port in the north of Greece."
+            ],
+            "flags": 0,
+            "guid": "JXZX)JWc+S",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rectal Gyrus",
+                "-7.07095  -29.4611  -22.6216",
+                "<img src='Right_Rectal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Rectal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Rectal_Gyrus.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Rectal_gyrus"
+            ],
+            "flags": 0,
+            "guid": "xov4lgN#d[",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Red Nucleus",
+                "-5.4138  19.5069  -4.3931",
+                "<img src='Right_Red_Nucleus.axi.jpg'/>",
+                "<img src='Right_Red_Nucleus.sag.jpg'/>",
+                "<img src='Right_Red_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Red_nucleus",
+                "The red nucleus or nucleus ruber is a structure in the rostral midbrain involved in motor coordination. The red nucleus is pale pink, which is believed to be due to the presence of iron in at least two different forms: hemoglobin and ferritin. The structure is located in the tegmentum of the midbrain next to the substantia nigra and comprises caudal magnocellular and rostral parvocellular components. The red nucleus and substantia nigra are subcortical centers of the extrapyramidal motor system."
+            ],
+            "flags": 0,
+            "guid": "i<iHb~(&*/",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Subcallosal Gyrus",
+                "-11.371  -11.3904  -12.4176",
+                "<img src='Right_Subcallosal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Subcallosal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Subcallosal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Paraterminal_gyrus",
+                "Redirected from %s to %s\n\nSubcallosal gyrusParaterminal gyrusThe paraterminal gyrus (subcallosal gyrus, peduncle of the corpus callosum) is a narrow lamina on the medial surface of the hemisphere in front of the lamina terminalis, behind the parolfactory area, and below the rostrum of the corpus callosum. It is continuous around the genu of the corpus callosum with the supracallosal gyrus. It's also considered a part of limbic system of brain."
+            ],
+            "flags": 0,
+            "guid": "L%{7+U@p&7",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Subthalamic Nucleus",
+                "-10.7941  13.4706  -3.11765",
+                "<img src='Right_Subthalamic_Nucleus.axi.jpg'/>",
+                "<img src='Right_Subthalamic_Nucleus.sag.jpg'/>",
+                "<img src='Right_Subthalamic_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Subthalamic_nucleus",
+                "The subthalamic nucleus is a small lens-shaped nucleus in the brain where it is, from a functional point of view, part of the basal ganglia system. In terms of anatomy, it is the major part of the subthalamus. As suggested by its name, the subthalamic nucleus is located ventral to the thalamus. It is also dorsal to the substantia nigra and medial to the internal capsule. It was first described by Jules Bernard Luys in 1865, and the term corpus Luysi or Luys' body is still sometimes used."
+            ],
+            "flags": 0,
+            "guid": "sgd:%r4h:]",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Superior Frontal Gyrus",
+                "-19.2  -40.1322  27.4708",
+                "<img src='Right_Superior_Frontal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Superior_Frontal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Superior_Frontal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Superior_frontal_gyrus",
+                "The superior frontal gyrus (SFG) makes up about one third of the frontal lobe of the human brain. It is bounded laterally by the superior frontal sulcus.\n\nThe superior frontal gyrus, like the inferior frontal gyrus and the middle frontal gyrus, is more of a region in the frontal gyrus than a true gyrus."
+            ],
+            "flags": 0,
+            "guid": "P{}P<V;Fp5",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Superior Occipital Gyrus",
+                "-37.7007  81.4953  27.4289",
+                "<img src='Right_Superior_Occipital_Gyrus.axi.jpg'/>",
+                "<img src='Right_Superior_Occipital_Gyrus.sag.jpg'/>",
+                "<img src='Right_Superior_Occipital_Gyrus.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Superior_occipital_gyrus"
+            ],
+            "flags": 0,
+            "guid": "LyE<E=74XC",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Superior Parietal Lobule",
+                "-27.1837  59.3117  52.6874",
+                "<img src='Right_Superior_Parietal_Lobule.axi.jpg'/>",
+                "<img src='Right_Superior_Parietal_Lobule.sag.jpg'/>",
+                "<img src='Right_Superior_Parietal_Lobule.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Superior_parietal_lobule",
+                "The superior parietal lobule is bounded in front by the upper part of the postcentral sulcus, but is usually connected with the postcentral gyrus above the end of the sulcus. The superior parietal lobule contains Brodmann's areas 5 and 7.\n\nBehind it is the lateral part of the parietooccipital fissure, around the end of which it is joined to the occipital lobe by a curved gyrus, the arcus parietooccipitalis. Below, it is separated from the inferior parietal lobule by the horizontal portion of the intraparietal sulcus.\n\nThe superior parietal lobule is involved with spatial orientation, and receives a great deal of visual input as well as sensory input from one's hand. It is also involved with other functions of the parietal lobe in general.\n\nThere are major white matter pathway connections with the superior parietal lobule such as the Cingulum, SLF I, superior parietal lobule connections of the Middle longitudinal fasciculus and other newly described superior parietal white matter connections.Damage to the superior parietal lobule can cause contralateral astereognosis and hemispatial neglect. It is also associated with deficits on tests involving the manipulation and rearrangement of information in working memory, but not on working memory tests requiring only rehearsal and retrieval processes."
+            ],
+            "flags": 0,
+            "guid": "IvXtMu8tz/",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Superior Temporal Gyrus",
+                "-51.0287  16.7747  0.158279",
+                "<img src='Right_Superior_Temporal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Superior_Temporal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Superior_Temporal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Superior_temporal_gyrus",
+                "The superior temporal gyrus is one of three (sometimes two) gyri in the temporal lobe of the human brain, which is located laterally to the head, situated somewhat above the external ear.\n\nThe superior temporal gyrus is bounded by:\n\n\n\nthe lateral sulcus above;\n\nthe superior temporal sulcus (not always present or visible) below;\n\nan imaginary line drawn from the preoccipital notch to the lateral sulcus posteriorly.The superior temporal gyrus contains several important structures of the brain, including:\n\n\n\nBrodmann areas 41 and 42, marking the location of the primary auditory cortex, the cortical region responsible for the sensation of sound;\n\nWernicke's area, Brodmann 22p, an important region for the processing of speech so that it can be understood as language.The superior temporal gyrus contains the primary auditory cortex, which is responsible for processing sounds. Specific sound frequencies map precisely onto the primary auditory cortex. This auditory (or tonotopic) map is similar to the homunculus map of the primary motor cortex. Some areas of the superior temporal gyrus are specialized for processing combinations of frequencies, and other areas are specialized for processing changes in amplitude or frequency. The superior temporal gyrus also includes the Wernicke's area, which (in most people) is located in the left hemisphere. It is the major area involved in the comprehension of language. The superior temporal gyrus (STG) is involved in auditory processing, including language, but also has been implicated as a critical structure in social cognition."
+            ],
+            "flags": 0,
+            "guid": "w9fBqG+$$X",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Supramarginal Gyrus",
+                "-52.2784  47.8785  31.0766",
+                "<img src='Right_Supramarginal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Supramarginal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Supramarginal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Supramarginal_gyrus",
+                "The supramarginal gyrus is a portion of the parietal lobe.  This area of the brain is also known as Brodmann area 40 based on the universally used brain map created by Korbinian Brodmann to define the structures in the cerebral cortex. It is probably involved with language perception and processing, and lesions in it may cause receptive aphasia."
+            ],
+            "flags": 0,
+            "guid": "C1E8@NV;k}",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Transverse Temporal Gyrus",
+                "-50.3863  21.7322  11.5",
+                "<img src='Right_Transverse_Temporal_Gyrus.axi.jpg'/>",
+                "<img src='Right_Transverse_Temporal_Gyrus.sag.jpg'/>",
+                "<img src='Right_Transverse_Temporal_Gyrus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Transverse_temporal_gyrus",
+                "The transverse temporal gyri, also called Heschl's gyri () or Heschl's convolutions, are found in the area of primary auditory cortex buried within the lateral sulcus of the human brain, occupying Brodmann areas 41 & 42. Transverse temporal gyri are superior to and are separated from the planum temporale (cortex involved in language production) by Heschl’s sulcus. Transverse temporal gyri are found in varying numbers in both the right and left hemispheres of the brain, and one study found that this number is not related to the hemisphere or dominance of hemisphere studied in subjects. Transverse temporal gyri can be viewed in the saggital plane as either an omega shape (if one gyrus is present) or a heart shape (if two gyri and a sulcus are present).Transverse temporal gyri are the first cortical structures to process incoming auditory information. Anatomically, the transverse temporal gyri are distinct in that they run mediolaterally (towards the center of the brain), rather than front to back as all other temporal lobe gyri run.\n\nThe transverse temporal gyri are active during auditory processing under fMRI for tone and semantic tasks. Transverse temporal gyri were found in one study to have significantly faster processing rates (33 Hz) in the left hemisphere compared to those in the right hemisphere (3 Hz). Additionally this difference in processing rate was found to be related to the volume of rate-related cortex in the gyri; right transverse temporal gryi were found to be more active during temporal processing, and these gryi were found to have more “rate-related cortex”. White and grey matter volumes of transverse temporal gyri were not found to relate to this processing speed, although larger white matter volumes in subjects are associated with increased sensitivity to “rapid auditory input”.The role of transverse temporal gyri in auditory processing of tone is demonstrated by a study by Wong, Warrier et. al. (2008). This study revealed the following: subjects that could successfully form an association between Mandarin Chinese “pitch patterns” and word meaning were found to have transverse temporal gyri with larger volume than subjects who had “difficulty learning these associations.” Successful completion of the previous task was also found to be associated with a “greater concentration of white matter” in the left transverse temporal gyri of the subject. In general, larger transverse temporal gyri “could be associated with more efficient processing of speech-related cues which could facilitate learning and perceiving new speech sounds.”The Heschl's gyri are named after Richard L. Heschl."
+            ],
+            "flags": 0,
+            "guid": "Ko{onhC(+g",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tuber of Vermis",
+                "-2  71.32  -24.5",
+                "<img src='Right_Tuber_of_Vermis.axi.jpg'/>",
+                "<img src='Right_Tuber_of_Vermis.sag.jpg'/>",
+                "<img src='Right_Tuber_of_Vermis.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Tuber_of_vermis",
+                "The tuber of vermis, the most posterior division of the inferior vermis, is of small size, and laterally spreads out into the large inferior semilunar lobules, which comprise at least two-thirds of the inferior surface of the hemisphere."
+            ],
+            "flags": 0,
+            "guid": "Ae~;BcCA82",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tuber",
+                "-44.2873  70.4655  -26.7296",
+                "<img src='Right_Tuber.axi.jpg'/>",
+                "<img src='Right_Tuber.sag.jpg'/>",
+                "<img src='Right_Tuber.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Tuber",
+                "Tubers are enlarged structures in some plant species used as storage organs for nutrients. They are used for the plant's perennation (survival of the winter or dry months), to provide energy and nutrients for regrowth during the next growing season, and as a means of asexual reproduction. Stem tubers form from thickened rhizomes (underground stems) or stolons (horizontal connections between organisms). Common plant species with stem tubers include potato and yam. Some sources also treat modified lateral roots (root tubers) under the definition; these are encountered in sweet potato, cassava, and dahlia."
+            ],
+            "flags": 0,
+            "guid": "Lju.MQULn^",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Uncus",
+                "-25.4762  2.32607  -27.734",
+                "<img src='Right_Uncus.axi.jpg'/>",
+                "<img src='Right_Uncus.sag.jpg'/>",
+                "<img src='Right_Uncus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Uncus",
+                "The uncus is an anterior extremity of the Parahippocampal gyrus.  It is separated from the apex of the temporal lobe by a slight fissure called the incisura temporalis.\n\nAlthough superficially continuous with the hippocampal gyrus, the uncus forms morphologically a part of the rhinencephalon.\n\nThe term comes from the Latin word uncus, meaning hook, and it was coined by Félix Vicq-d'Azyr (1748–1794)."
+            ],
+            "flags": 0,
+            "guid": "Dm!$v6WUwx",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Uvula of Vermis",
+                "-2.28261  65.5217  -32.5",
+                "<img src='Right_Uvula_of_Vermis.axi.jpg'/>",
+                "<img src='Right_Uvula_of_Vermis.sag.jpg'/>",
+                "<img src='Right_Uvula_of_Vermis.cor.jpg'/>",
+                "",
+                "Create it on: https://en.wikipedia.org/wiki/Uvula_of_vermis"
+            ],
+            "flags": 0,
+            "guid": "s0`M>P}.:S",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Uvula",
+                "-18.3966  74.0347  -27.1755",
+                "<img src='Right_Uvula.axi.jpg'/>",
+                "<img src='Right_Uvula.sag.jpg'/>",
+                "<img src='Right_Uvula.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Palatine_uvula",
+                "Redirected from %s to %s\n\nUvulaPalatine uvulaThe palatine uvula, usually referred to as simply the uvula , is a conic projection from the posterior edge of the middle of the soft palate, composed of connective tissue containing a number of racemose glands, and some muscular fibers (musculus uvulae). It also contains a large number of serous glands that produce a lot of thin saliva."
+            ],
+            "flags": 0,
+            "guid": "n>^>A^@8j1",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ventral Anterior Nucleus",
+                "-11.306  5.70522  8.91791",
+                "<img src='Right_Ventral_Anterior_Nucleus.axi.jpg'/>",
+                "<img src='Right_Ventral_Anterior_Nucleus.sag.jpg'/>",
+                "<img src='Right_Ventral_Anterior_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Ventral_anterior_nucleus",
+                "The ventral anterior nucleus (VA) is a nucleus of the thalamus. It acts with the anterior part of the ventral lateral nucleus to modify signals from the basal ganglia."
+            ],
+            "flags": 0,
+            "guid": "f0$12<!(I.",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ventral Lateral Nucleus",
+                "-13.6064  12.365  9.42563",
+                "<img src='Right_Ventral_Lateral_Nucleus.axi.jpg'/>",
+                "<img src='Right_Ventral_Lateral_Nucleus.sag.jpg'/>",
+                "<img src='Right_Ventral_Lateral_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Ventral_lateral_nucleus",
+                "The ventral lateral nucleus (VL) is a nucleus in the ventral nuclear group of the thalamus."
+            ],
+            "flags": 0,
+            "guid": "wBcp9gHa:g",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ventral Posterior Lateral Nucleus",
+                "-18.3333  19.3129  5.16666",
+                "<img src='Right_Ventral_Posterior_Lateral_Nucleus.axi.jpg'/>",
+                "<img src='Right_Ventral_Posterior_Lateral_Nucleus.sag.jpg'/>",
+                "<img src='Right_Ventral_Posterior_Lateral_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Ventral_posterolateral_nucleus",
+                "Redirected from %s to %s\n\nVentral posterior lateral nucleusVentral posterolateral nucleusThe ventral posterolateral nucleus (VPL) is a nucleus of the thalamus. Together with the ventral posteromedial nucleus (VPM), ventral posterior inferior nucleus (VPI) and  ventromedial posterior nucleus (VMpo), it constitutes the ventral posterior nucleus. There is uncertainty in the location of VMpo, as determined by spinothalamic tract (STT) terminations and staining for calcium-binding proteins, and several authorities do not consider its existence as being proved."
+            ],
+            "flags": 0,
+            "guid": "l+3uBoaj&n",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ventral Posterior Medial Nucleus",
+                "-15.4138  20.3851  3.92529",
+                "<img src='Right_Ventral_Posterior_Medial_Nucleus.axi.jpg'/>",
+                "<img src='Right_Ventral_Posterior_Medial_Nucleus.sag.jpg'/>",
+                "<img src='Right_Ventral_Posterior_Medial_Nucleus.cor.jpg'/>",
+                "https://en.wikipedia.org/wiki/Ventral_posteromedial_nucleus",
+                "Redirected from %s to %s\n\nVentral posterior medial nucleusVentral posteromedial nucleusThe ventral posteromedial nucleus (VPM) is a nucleus of the thalamus."
+            ],
+            "flags": 0,
+            "guid": "KE:^>|wQ~7",
+            "note_model_uuid": "6a373ecc-b69e-11e8-b2dd-002264a4aa39",
+            "tags": []
+        }
+    ]
+}
