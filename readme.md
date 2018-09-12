@@ -1,18 +1,16 @@
 # Anki Deck from a MR atlas
 
+This generates an [anki](https://apps.ankiweb.net/) deck with flashcards for each atlas roi. 
+
 ## Usage
+To use the deck, see [LabNeuroCogDevel/TTDaemonCards](https://github.com/LabNeuroCogDevel/TTDaemonCards).
 
-1. Import json w/ [CrowdAnki](https://github.com/Stvad/CrowdAnki)
-
-## Editing
-To edit notes:
- 1. Fork and pull repo
- 2. Import, edit, and export json (via [CrowdAnki](https://github.com/Stvad/CrowdAnki))
- 3. Push changes, create pull request
+## Generating
 
 To generate a new atlas:
  1. change `atlas=` in `*bash` files
  2. run `make all`
+ 2. Optionally, get predefined note type and cards by import json from  [LabNeuroCogDevel/TTDaemonCards](https://github.com/LabNeuroCogDevel/TTDaemonCards) via the [CrowdAnki](https://github.com/Stvad/CrowdAnki) add-on.
  3. import csv file
 
 ## How
@@ -24,8 +22,6 @@ To generate a new atlas:
  3. csv notes imported into anki and exported with [CrowdAnki](https://github.com/Stvad/CrowdAnki)
 
 ## TODO
-use freesurfer labels (`aparc`)
+ * use freesurfer labels (`aparc`)
+ * git submodules for created decks
 
-## Anki Plugins
- * [CrowdAnki](https://github.com/Stvad/CrowdAnki): `1788670778`
- * ~~[AnkiHub](https://github.com/dayjaby/AnkiHub): `116826216`~~ not available for Anki 2.1
